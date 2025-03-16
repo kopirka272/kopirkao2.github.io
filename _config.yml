@@ -19,7 +19,6 @@ links:
   - Name: WhatsApp
     URL: https://api.whatsapp.com/send?phone=79015602589
     Color: '#25d366'
-	Text_Color: '#ffffff'
     Icon-Class: fab fa-whatsapp
 
     # TELEGRAM
