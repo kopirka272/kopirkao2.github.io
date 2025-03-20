@@ -1,7 +1,7 @@
 ---
 ---
 
-@import url('https://fonts.googleapis.com/css2?family=Poppins');
+@import url('https://fonts.googleapis.com/css2?family=Roboto');
 @import url(https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/0.0.0-5a9c68d/base.css);
 @import url(https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/0.0.0-5a9c68d/components.min.css);
 @import url(https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/0.0.0-5a9c68d/utilities.min.css);
@@ -14,7 +14,7 @@ html {
     a{
         outline: none;
     }
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
     #image {
         transition: all 0.5s ease;
         background-position: center;
@@ -22,7 +22,7 @@ html {
             transform: scale(1.05);
         }
         ::after {
-            background-color: black;
+            background-color: rgba(0, 0, 0, 0);
         }
     }
     .links {

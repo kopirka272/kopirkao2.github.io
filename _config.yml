@@ -32,7 +32,7 @@ links:
   - Name: Email
     URL: 'mailto:272@kopirka.ru'
     Icon-Class: fas fa-envelope
-    Color: '#e17055'
+    Color: '#e17055' 
     Text_Color: '#ffffff'
 
 
